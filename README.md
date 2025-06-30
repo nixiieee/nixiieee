@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm nixiieee 👋
 
-<!--
-**nixiieee/nixiieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student @ HSE University (Saint Petersburg)**  
+**Risk Analyst @ Alfa-Bank**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+- Passionate about data science, machine learning, and deep learning
+- Skilled in **Python**, data analysis, and building ML/DL models
+- Open to new projects (both product-like and research)
+
+---
+
+### 🛠️ Top Skills
+- Python
+- Data Analysis
+- Machine Learning (ML)
+- Deep Learning (DL)
+
+---
+
+### 🚀 Favorite Projects
+
+- [RAVEN](https://github.com/nixiieee/RAVEN)
+- [Whisper Emotion Classifier](https://github.com/nixiieee/whisper-emotion-classifier)
+- [Encoder for RAG Chatbot](https://github.com/nixiieee/encoder-for-rag-chatbot)
+- [Image Captioning (Technolog796)](https://github.com/Technolog796/image_captioning)
+
+---
+
+### 📫 Connect
+
+- Telegram: [@toujours_s](https://t.me/toujours_s)
+
