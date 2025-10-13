@@ -1,7 +1,7 @@
 # Hi, I'm nixiieee 👋
 
 **Student @ HSE University (Saint Petersburg)**  
-**Risk Analyst @ Alfa-Bank**
+**Data Scientist @ Alfa-Bank**
 
 ---
 
