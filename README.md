@@ -34,22 +34,6 @@ I’m interested in building machine learning systems that combine strong resear
 
 ---
 
-## 🛠️ Tech Stack
-
-### ML / DL
-`PyTorch` `Transformers` `Scikit-learn` `CatBoost` `XGBoost`
-
-### Data & Engineering
-`Python` `SQL` `PySpark` `PostgreSQL` `Hive`
-
-### MLOps & Infrastructure
-`Docker` `MLflow` `Weights & Biases` `ClearML` `Git`
-
-### Areas
-`Speech ML` `Audio Processing` `NLP` `LLMs` `RAG`
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎧 [RAVEN](https://github.com/nixiieee/RAVEN)
@@ -66,12 +50,19 @@ Deep learning project for automatic image caption generation.
 
 ---
 
-## 📈 Education
+## 🛠️ Tech Stack
 
-**HSE University**  
-BSc in Applied Mathematics & Computer Science  
-Applied Data Analysis & AI Program  
-GPA: **9.44 / 10**
+### ML / DL
+`PyTorch` `Transformers` `Scikit-learn` `CatBoost` `XGBoost`
+
+### Data & Engineering
+`Python` `SQL` `PySpark` `PostgreSQL` `Hive`
+
+### MLOps & Infrastructure
+`Docker` `MLflow` `Weights & Biases` `ClearML` `Git`
+
+### Areas
+`Speech ML` `Audio Processing` `NLP` `LLMs` `RAG`
 
 ---
 
@@ -79,3 +70,4 @@ GPA: **9.44 / 10**
 
 - Telegram: [@toujours_s](https://t.me/toujours_s)
 - Mail: xenz5240@gmail.com
+- LinkedIn: [xenz](https://www.linkedin.com/in/xenz/)
