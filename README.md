@@ -2,7 +2,6 @@
 
 <p align="center">
   ML Engineer / Data Scientist • Speech & LLM Research
-  Applied Mathematics & Computer Science @ HSE University
 </p>
 
 <p align="center">
@@ -86,4 +85,4 @@ Deep learning project for automatic image caption generation.
 `Docker` `MLflow` `Weights & Biases` `ClearML` `Git`
 
 ### Areas
-`Speech ML` `Audio Processing` `NLP` `LLMs` `RAG`
+`ML in Speech/Audio` `Audio Processing` `NLP` `LLMs` `RAG`
