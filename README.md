@@ -1,5 +1,29 @@
 # Hi, I'm Ksenia (nixiieee) 👋
 
+<p align="center">
+  ML Engineer / Data Scientist • Speech & LLM Research
+</p>
+
+<p align="center">
+  <a href="https://t.me/toujours_s">
+    <img src="https://img.shields.io/badge/Telegram-@toujours__s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/nixiieee">
+    <img src="https://img.shields.io/badge/GitHub-nixiieee-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:xenz5240@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/xenz">
+    <img src="https://img.shields.io/badge/LinkedIn-xenz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 **ML Engineer / Data Scientist**  
 **Applied Mathematics & Computer Science @ HSE University**
 
