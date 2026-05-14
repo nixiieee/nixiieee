@@ -1,7 +1,8 @@
-# Hi, I'm Ksenia (nixiieee) 👋
+<h1 align="center">Hi, I'm Ksenia 👋</h1>
 
 <p align="center">
   ML Engineer / Data Scientist • Speech & LLM Research
+  Applied Mathematics & Computer Science @ HSE University
 </p>
 
 <p align="center">
@@ -24,7 +25,6 @@
 
 ---
 
-**ML Engineer / Data Scientist**  
 **Applied Mathematics & Computer Science @ HSE University**
 
 Currently open to ML/DL, LLM, and research engineering opportunities.
@@ -87,11 +87,3 @@ Deep learning project for automatic image caption generation.
 
 ### Areas
 `Speech ML` `Audio Processing` `NLP` `LLMs` `RAG`
-
----
-
-## 📫 Connect
-
-- Telegram: [@toujours_s](https://t.me/toujours_s)
-- Mail: xenz5240@gmail.com
-- LinkedIn: [xenz](https://www.linkedin.com/in/xenz/)
