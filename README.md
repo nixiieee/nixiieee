@@ -24,7 +24,7 @@
 
 ---
 
-**Applied Mathematics & Computer Science @ HSE University**
+Bachelor's Degree in Applied Mathematics & Computer Science @ HSE University
 
 Currently open to ML/DL, LLM, and research engineering opportunities.
 
@@ -32,19 +32,9 @@ I’m interested in building machine learning systems that combine strong resear
 
 ---
 
-## 🔬 Interests
-
-- Deep Learning & Representation Learning
-- Speech Enhancement & Audio Processing
-- LLM Applications & RAG Systems
-- NLP & Multimodal ML
-- Applied Research & ML Infrastructure
-
----
-
 ## 💼 Experience
 
-### 🧠 Research @ HSE & VK
+### 🧠 Former Researcher @ HSE & VK
 - Researching speech enhancement with Mixture-of-Experts architectures
 - Conducted 20+ experiments on routing strategies, expert balancing, and noise-aware experts
 - Achieved **PESQ 3.64**, outperforming a previous SOTA baseline
